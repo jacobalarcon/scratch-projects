@@ -1,0 +1,16 @@
+{
+  "name": "based_or_not",
+  "version": "1.0.0",
+  "description": "attempt to build a website that lets users vote on whether something is based or not.  This is my first solo project during my bootcamp.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
